@@ -29,7 +29,7 @@ Use at your own risk.
 
 ## Requirements
 
-- Node.js >= 20
+- Node.js >= 22.13
 - [pnpm](https://pnpm.io/) (this repo uses `pnpm` as package manager)
 - A valid RPC URL (via Alchemy, Infura, etc)
 - The private key of an EOA with enough funds to pay for gas.
